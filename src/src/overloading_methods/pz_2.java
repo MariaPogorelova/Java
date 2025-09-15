@@ -1,4 +1,4 @@
-package Перегрузка_методов;
+package overloading_methods;
 
 public class pz_2 {
     public static class StudentOverload {
