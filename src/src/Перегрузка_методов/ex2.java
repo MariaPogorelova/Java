@@ -1,3 +1,5 @@
+package Перегрузка_методов;
+
 public class ex2 {
     public static class SimpleStudent {
         private String firstName;

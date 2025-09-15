@@ -1,3 +1,5 @@
+package Перегрузка_методов;
+
 public class pz_2 {
     public static class StudentOverload {
         private String firstName;

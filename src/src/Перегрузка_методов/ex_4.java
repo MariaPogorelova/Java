@@ -1,3 +1,5 @@
+package Перегрузка_методов;
+
 public class ex_4 {
     static class A {}
     static class B extends A {}

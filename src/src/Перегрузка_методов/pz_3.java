@@ -1,3 +1,5 @@
+package Перегрузка_методов;
+
 public class pz_3 {
     public static class ShowExample {
         public void show(Object o) { System.out.println("Object"); }
